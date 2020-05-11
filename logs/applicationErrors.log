@@ -4,3 +4,5 @@
 19:16:59.181 CUSTOM_PATTERN [main] ERROR com.managementSystem.MainApp - Hello World - Error
 19:17:33.954 CUSTOM_PATTERN [main] ERROR com.managementSystem.MainApp - Hello World - Error
 19:20:18.528 CUSTOM_PATTERN [main] ERROR com.managementSystem.MainApp - Hello World - Error
+19:46:46.350 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Field 'employee_id' doesn't have a default value
+19:48:27.978 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Field 'id' doesn't have a default value

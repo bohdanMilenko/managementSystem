@@ -23,3 +23,24 @@
 19:17:33.849 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Getting Employee by id
 19:17:33.954 CUSTOM_PATTERN [main] INFO  com.managementSystem.MainApp - Getting Employee by id
 19:17:33.954 CUSTOM_PATTERN [main] INFO  com.managementSystem.MainApp - Hello World - Info
+19:46:44.643 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+19:46:44.904 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19:46:45.494 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:46:46.106 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:46:46.212 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Getting Employee by id
+19:48:26.657 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+19:48:26.829 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19:48:27.229 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:48:27.800 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:48:27.873 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Getting Employee by id
+19:51:36.375 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+19:51:36.551 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19:51:37.031 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:51:37.665 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:51:37.746 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Getting Employee by id
+19:52:16.178 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+19:52:16.379 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19:52:16.760 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:52:17.374 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:52:17.443 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Getting Employee by id
+19:52:17.555 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Trying to remove object Employee

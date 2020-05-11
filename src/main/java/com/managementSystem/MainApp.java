@@ -1,6 +1,7 @@
 package com.managementSystem;
 
 
+import com.managementSystem.entity.Employee;
 import com.managementSystem.service.IEmployeeService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +15,17 @@ public class MainApp {
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("beans.xml");
         IEmployeeService employeeService = applicationContext.getBean(IEmployeeService.class);
         System.out.println(employeeService.getById(1).toString());
+
+        Employee employee = new Employee("Bob", "Dilan", 4);
+        employeeService.save(employee);
+
+        System.out.println(employee.getId());
+
+        System.out.println(employeeService.remove(employee));
+
+
+
+
 
     }
 

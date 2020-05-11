@@ -13,8 +13,7 @@ public class Department {
     @Column(name = "department_name")
     private String departmentName;
 
-    public Department(int id, String departmentName) {
-        this.id = id;
+    public Department( String departmentName) {
         this.departmentName = departmentName;
     }
 

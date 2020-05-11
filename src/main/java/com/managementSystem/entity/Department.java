@@ -8,9 +8,9 @@ public class Department {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    int id;
+    private int id;
     @Column(name = "department_name")
-    String departmentName;
+    private String departmentName;
 
     public Department(int id, String departmentName) {
         this.id = id;

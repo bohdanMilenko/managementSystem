@@ -1,0 +1,6 @@
+19:11:35.408 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot create PoolableConnectionFactory (Public Key Retrieval is not allowed)
+19:15:25.218 CUSTOM_PATTERN [main] ERROR c.m.service.EmployeeServiceImpl - Hello World - Error
+19:15:25.313 CUSTOM_PATTERN [main] ERROR com.managementSystem.MainApp - Hello World - Error
+19:16:59.181 CUSTOM_PATTERN [main] ERROR com.managementSystem.MainApp - Hello World - Error
+19:17:33.954 CUSTOM_PATTERN [main] ERROR com.managementSystem.MainApp - Hello World - Error
+19:20:18.528 CUSTOM_PATTERN [main] ERROR com.managementSystem.MainApp - Hello World - Error

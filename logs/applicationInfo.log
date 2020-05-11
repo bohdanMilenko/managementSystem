@@ -1,0 +1,25 @@
+19:11:34.302 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+19:11:34.540 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19:11:34.886 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:15:23.839 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+19:15:24.009 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19:15:24.455 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:15:25.134 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:15:25.217 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Getting Employee by id
+19:15:25.218 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Hello World - Info
+19:15:25.313 CUSTOM_PATTERN [main] INFO  com.managementSystem.MainApp - Getting Employee by id
+19:15:25.313 CUSTOM_PATTERN [main] INFO  com.managementSystem.MainApp - Hello World - Info
+19:16:57.759 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+19:16:57.950 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19:16:58.470 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:16:59.038 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:16:59.098 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Getting Employee by id
+19:16:59.181 CUSTOM_PATTERN [main] INFO  com.managementSystem.MainApp - Getting Employee by id
+19:16:59.181 CUSTOM_PATTERN [main] INFO  com.managementSystem.MainApp - Hello World - Info
+19:17:32.210 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+19:17:32.409 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19:17:33.077 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:17:33.793 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:17:33.849 CUSTOM_PATTERN [main] INFO  c.m.service.EmployeeServiceImpl - Getting Employee by id
+19:17:33.954 CUSTOM_PATTERN [main] INFO  com.managementSystem.MainApp - Getting Employee by id
+19:17:33.954 CUSTOM_PATTERN [main] INFO  com.managementSystem.MainApp - Hello World - Info

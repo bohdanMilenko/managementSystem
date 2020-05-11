@@ -15,14 +15,6 @@ public class MainApp {
         IEmployeeService employeeService = applicationContext.getBean(IEmployeeService.class);
         System.out.println(employeeService.getById(1).toString());
 
-        Logger logger = LoggerFactory.getLogger(MainApp.class);
-        logger.info("Getting Employee by id");
-        logger.trace("Hello World - Trace");
-        logger.debug("Hello World - Debug");
-        logger.info("Hello World - Info");
-        logger.warn("Hello World - Warning");
-        logger.error("Hello World - Error");
-
     }
 
 }

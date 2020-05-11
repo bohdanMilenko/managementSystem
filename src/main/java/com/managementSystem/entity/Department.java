@@ -7,6 +7,7 @@ import javax.persistence.*;
 public class Department {
 
     @Id
+    @Column(name = "department_id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
     @Column(name = "department_name")

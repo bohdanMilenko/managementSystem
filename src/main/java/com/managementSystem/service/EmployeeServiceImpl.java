@@ -1,7 +1,6 @@
 package com.managementSystem.service;
 
 import com.managementSystem.entity.Employee;
-import com.managementSystem.repository.EmployeeRepoImpl;
 import com.managementSystem.repository.IEmployeeRepo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -23,12 +22,6 @@ public class EmployeeServiceImpl implements IEmployeeService {
     @Override
     public Employee getById(int id) {
         logger.info("Getting Employee by id");
-        logger.trace("Hello World - Trace");
-        logger.debug("Hello World - Debug");
-        logger.info("Hello World - Info");
-        logger.warn("Hello World - Warning");
-        logger.error("Hello World - Error");
-
         return employeeRepo.getEmployeeById(id);
     }
 

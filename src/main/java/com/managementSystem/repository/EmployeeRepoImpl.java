@@ -31,4 +31,28 @@ public class EmployeeRepoImpl implements IEmployeeRepo {
                 "e.dep_id  FROM Employee e WHERE e.firstName = :name", Employee.class).getSingleResult();
         return employee;
     }
+
+    @Override
+    public void save(Employee employee) {
+        em.persist(employee);
+    }
+
+    @Override
+    public boolean remove(Employee employee) {
+        if (employee != null){
+            em.remove(employee);
+            return true;
+        }
+        return false;
+    }
+
+    @Override
+    public boolean remove(int id) {
+        Employee employee = getEmployeeById(id);
+        if(employee!=null){
+            em.remove(employee);
+            return true;
+        }
+        return false;
+    }
 }
